@@ -3,13 +3,13 @@ local Window = OrionLib:MakeWindow({Name = "Komi Hub | Select game", HidePremium
 
 OrionLib:MakeNotification({
 	Name = "KomiHub Loader",
-	Content = "Select game.",
+	Content = "Please select game.",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
 
 local Tab = Window:MakeTab({
-	Name = "Games",
+	Name = "Main",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
