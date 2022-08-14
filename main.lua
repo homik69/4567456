@@ -27,3 +27,11 @@ Tab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/e5ry8ftu5e.lua"))()
   	end    
 })
+
+Tab:AddButton({
+	Name = "For Devs",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/443ttrer45r.lua"))()
+  	end    
+})
+
