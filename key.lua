@@ -59,3 +59,5 @@ Tab:AddButton({
             end
   	end    
 })
+
+Tab:AddParagraph("Credits","homik#2137 - Made almost everything lol \nfile#1337 - made some scripts for games")
