@@ -35,3 +35,10 @@ Tab:AddButton({
   	end    
 })
 
+Tab:AddButton({
+	Name = "BedWars (NOT WORKING)",
+	Callback = function()
+        print("nigga")
+  	end    
+})
+
