@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Komi Hub | Select game", HidePremium = false, IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "Komi Hub | Select game", HidePremium = false, IntroEnabled = true, IntroText = "Logged in! Loading..."})
 
 OrionLib:MakeNotification({
 	Name = "KomiHub Loader",
@@ -29,16 +29,9 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-	Name = "For Devs",
+	Name = "Frogge",
 	Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/443ttrer45r.lua"))()
-  	end    
-})
-
-Tab:AddButton({
-	Name = "BedWars (NOT WORKING)",
-	Callback = function()
-        print("nigga")
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/g345645wgb.lua"))()
   	end    
 })
 
