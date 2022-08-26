@@ -35,3 +35,10 @@ Tab:AddButton({
   	end    
 })
 
+Tab:AddButton({
+	Name = "Race Clicker",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/645gbw5b467wq345.lua"))()
+  	end    
+})
+
