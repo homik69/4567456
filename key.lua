@@ -8,7 +8,7 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "KH_3fF4fab5jhdyGAQTY6g."
+_G.Key = "KHTESTKEY"
 _G.KeyInput = "string"
 
 function Correct()
