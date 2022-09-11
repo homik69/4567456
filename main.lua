@@ -50,3 +50,4 @@ Tab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/e56h73wq45g.lua"))()
   	end   
 
+OrionLib:Init()
