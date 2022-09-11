@@ -33,6 +33,8 @@ Tab:AddButton({
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/g345645wgb.lua"))()
   	end    
+		
+		
 })
 
 Tab:AddButton({
@@ -41,4 +43,10 @@ Tab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/645gbw5b467wq345.lua"))()
   	end    
 })
+
+Tab:AddButton({
+	Name = "Evade",
+	Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/e56h73wq45g.lua"))()
+  	end   
 
