@@ -29,7 +29,7 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-	Name = "Frogge",
+	Name = "Universal",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/OnexiaK/4567456/main/g345645wgb.lua"))()
   	end    
